@@ -4,11 +4,18 @@
 
 Doe een Performance Audit test op een bestaande website en rapporteer daar over.
 
-## Titel Website
+## Performance Lancia
+Voor de performance Audit heb ik het italiaanse automerk Lancia gekozen.
 
-Welke website heb je getest? Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe.  
+<img width="1324" alt="Schermafbeelding 2023-04-19 om 09 18 15" src="https://user-images.githubusercontent.com/89298385/232998093-52b98aac-addf-42f8-a449-d72e812a19d3.png">
 
-Toon een screenshot van de performance test.
+Bron website:
+
+https://www.lancia.nl/pu-ra-hpe
+
+Bron pagespeed resultaat:
+
+https://pagespeed.web.dev/analysis/https-www-lancia-nl-pu-ra-hpe/5e83z2hu9n?form_factor=mobile
 
 Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
 
