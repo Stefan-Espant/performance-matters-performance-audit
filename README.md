@@ -17,8 +17,6 @@ Bron pagespeed resultaat:
 
 https://pagespeed.web.dev/analysis/https-www-lancia-nl-pu-ra-hpe/5e83z2hu9n?form_factor=mobile
 
-Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
-
 
 ## Licentie
 
